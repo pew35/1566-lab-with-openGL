@@ -11,7 +11,7 @@
 #include <stdio.h>
 
 #include "../mylib/initShader.h"
-#include "../mylib/matrix.h""
+#include "../mylib/matrix.h"
 
 
 #define BUFFER_OFFSET( offset )   ((GLvoid*) (offset))
